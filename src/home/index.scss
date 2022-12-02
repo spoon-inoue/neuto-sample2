@@ -1,0 +1,26 @@
+main {
+	background-color: #1e1e1e;
+}
+
+.section {
+	width: 100vw;
+	height: 100vh;
+
+	display: grid;
+	place-items: center;
+
+	color: #fefefe;
+	font-size: 3rem;
+}
+
+.sec-1 {
+	border: 2px solid #1bd2cd;
+}
+
+.sec-2 {
+	border: 2px solid #f257ad;
+}
+
+.sec-3 {
+	border: 2px solid #f2d041;
+}
